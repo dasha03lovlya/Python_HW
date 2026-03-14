@@ -1,5 +1,6 @@
 def telNumber(num):
-    print(num, end = '')
+    print(num, end='')
+
 
 telNumber(8)
 telNumber(8)
